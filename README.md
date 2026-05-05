@@ -1,4 +1,4 @@
-<a href="https://k4xhu9dccczizmzuoysnup.streamlit.app/">
+<a href="https://myresume.santoshkrsbg36.workers.dev/">
   <img src="https://img.shields.io/badge/🟢%20Live%20App-Open-green?style=for-the-badge">
 </a>
 
